@@ -18,6 +18,6 @@ I'm open to collaborating on blockchain-related projects.
 [![](https://visitcount.itsvg.in/api?id=Fraysse-Gaetan&icon=2&color=12)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/0xGaetan) 
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/GaetanCodes) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
